@@ -1,8 +1,8 @@
 
-
-- 🔭 Desenvolvedor front-end Júnior
-- 🌱 Estudando Js / Reactjs  
-- 👯 E-mail de contato: gabrielmagevski.gs@gmail.com
+ 
+- 💻 Desenvolvedor front-end Júnior
+- ⏳ Estudando Js / Reactjs  
+- 📧 E-mail de contato: gabrielmagevski.gs@gmail.com
 - ⚡ Buscando desenvolver boas práticas de programação :P
 
 <div align="center">
