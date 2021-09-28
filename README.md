@@ -1,5 +1,5 @@
 
- 
+ ## Bio 
 - 💻 Desenvolvedor front-end Júnior
 - ⏳ Estudando Js / Reactjs  
 - 📧 E-mail de contato: gabrielmagevski.gs@gmail.com
