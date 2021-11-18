@@ -4,11 +4,9 @@ console.log('Hello World!')
  ## Bio 
 - 💻 Desenvolvedor front-end Júnior I
 - ⏳ Estudando Js / Reactjs / Ts <img align="center" alt="Mage-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"> <img align="center" alt="Mage-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Mage-TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-- 
-- 
 
 - 📧 E-mail de contato: gabrielmagevski.gs@gmail.com
-- ⚡ Buscando desenvolver boas práticas de programação :P
+- ⚡ Buscando desenvolver boas práticas :P
 
 <div align="center">
   <a href="https://github.com/gabrielmagevski">
