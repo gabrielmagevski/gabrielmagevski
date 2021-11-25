@@ -8,11 +8,12 @@ console.log('Hello World!')
 - 📧 E-mail de contato: gabrielmagevski.gs@gmail.com
 - ⚡ Buscando desenvolver boas práticas :P
 
-<div align="center">
-  <a href="https://github.com/gabrielmagevski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielmagevski&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmagevski&layout=compact&langs_count=7&theme=midnight-purple"/>
-</div>
+<a href="https://github.com/gabrielmagevski/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmagevski&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/gabrielmagevski/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielmagevski&repo=convoychat" />
+</a>
  
  
  <div style="display: inline_block"><br>
