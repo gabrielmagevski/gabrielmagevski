@@ -1,22 +1,23 @@
 ~~~javascript
 const days = [
- 'seg',
- 'ter',
- 'quar',
- 'qui',
- 'sex',
-];
+'seg',
+'ter',
+'quar',
+'qui',
+'sex',
+ ];
 
-function coffe(on) {
-  if(days.indexOf(on) + 1) {
-     return console.log('I need to coffe.');  
-  }
-   else {
-     return console.log('sleep all day');
-  }
-}
 
-console.log(coffe(days[3]))
+function coffe(on = 0) {
+  const search = days.indexOf(on) + 1
+   if(search) {
+       return console.log('I need to coffe.');  
+   } else{
+       return console.log('sleep all day');
+   }
+};
+
+console.log(coffe(days[5]));
 ~~~
  ## Bio 
 - 💻 Desenvolvedor front-end Júnior I
