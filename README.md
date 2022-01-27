@@ -1,5 +1,22 @@
 ~~~javascript
-console.log('Hello World!')
+const days = [
+ 'seg',
+ 'ter',
+ 'quar',
+ 'qui',
+ 'sex',
+];
+
+function coffe(on) {
+  if(days.indexOf(on) + 1) {
+     return console.log('I need to coffe.');  
+  }
+   else {
+     return console.log('sleep all day');
+  }
+}
+
+console.log(coffe(days[3]))
 ~~~
  ## Bio 
 - 💻 Desenvolvedor front-end Júnior I
