@@ -1,23 +1,5 @@
-~~~javascript
-const days = [
-'seg',
-'ter',
-'quar',
-'qui',
-'sex',
- ];
-
-
-function coffe(on = 0) {
-  const search = days.indexOf(on) + 1
-   if(search) {
-       return console.log('I need to coffe.');  
-   } else{
-       return console.log('sleep all day');
-   }
-};
-
-console.log(coffe(days[5]));
+~~~
+Let´s to code!!
 ~~~
  ## Bio 
 - 💻 Desenvolvedor front-end
